@@ -1,0 +1,83 @@
+nav >ul {
+    text-align: center;
+    color: white;
+    font-family: Merriweather;
+    font-size: 32px;
+    
+}
+nav li{
+    list-style: none;
+}
+.nwyr{
+    background-image:url("../resources/Banner\ Image.png");
+    background-size: auto;
+    background-size:1320px 600px;
+    background-repeat: no-repeat;
+    position: center;
+    top: 50%;
+    left: 50%;
+    padding: 100px 345px 250px 300px;
+border-radius: 16px;
+margin: 0px;
+}
+body{
+    font-family: 'Merriweather', serif;
+}
+.party{
+    font-size: 150pxpx;
+}
+.offer{
+  
+    color: #F00;
+    font-size: 88px;
+font-weight: 700;
+}
+.offer2{
+    color: #F00;
+   
+font-size: 18px;
+font-weight: 500;
+}
+.offer{
+   
+    color: #070211;
+    font-size: 48px;
+font-weight: 700;
+padding-bottom:50px ;
+
+}
+.hdings{
+    text-align: center;
+}
+.banner{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+/* .party{
+    color: white;
+    font-family: Merriweather;
+    font-size: 32px;
+
+} */
+.party{
+    color: white;
+    font-family: Merriweather;
+    font-size: 32px;
+}
+.Party{
+    background-image: url(../resources/Vectorrr.png);
+    background-size: auto;
+    background-size:1200px 600px;
+    background-repeat: no-repeat;
+    position: center;
+    top: 50%;
+    left: 50%;
+    padding: 100px 345px 250px 300px;
+border-radius: 16px;
+margin: 0px;
+}
+.btn{
+    text-decoration: none;
+}
