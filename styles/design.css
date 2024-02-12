@@ -81,3 +81,20 @@ margin: 0px;
 .btn{
     text-decoration: none;
 }
+.PDT{
+    text-align: center;
+    margin-left:  100px;
+    margin-right:  100px;
+
+    padding: auto;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; ;
+}
+span{
+    color: #F00; 
+}
