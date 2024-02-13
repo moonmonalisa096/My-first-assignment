@@ -98,3 +98,54 @@ line-height: 56px; ;
 span{
     color: #F00; 
 }
+#crclPc{
+    width: 200.844px;
+    height: 200.844px;
+    border-radius: 50%;
+    border: 15px solid #F00;
+    padding: 20px;
+}
+.cmngSon{
+    display: flex;
+    /* justify-content: space-around; */
+
+}
+.offer00{
+    color: #F00;
+   
+    font-size: 15px;
+   
+    font-weight: 15px;
+   
+}
+#2024{
+    color: #F00;
+    font-size: 25px;
+    font-weight: 25px;  
+}
+.undrCrcl{
+    text-align: center;
+    /* margin: 20px; */
+    padding: 100px;
+}
+.undrSL{
+    background-image: url(../resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
+    background-size: 1320px 229px;
+    background-position: bottom center;
+   
+text-align: center; 
+/* background-image: url(../resources/Rectangle\ 1.png); */
+}
+.bstgft{
+    text-align: left;
+}
+.images{
+    display: grid;
+    grid-template-rows: 450px 450px 450px;
+    grid-template-columns:400px 400px 400px ;
+    grid-gap: 40px 40px;
+    justify-content: center;
+}
+
